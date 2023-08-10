@@ -1,0 +1,47 @@
+Indeed,glassadoor,Linkedin
+
+Part-1 (Jupyter Notebook)
+[2 days]
+
+* Basic Arithmatic Operations
+* Control and Conditional Structure 
+* Looping-For,while Loops
+* User Input
+* Strings
+* Integers
+* Floating values
+* Typecasting 
+---------------------------------
+Part-2 (focus on In Build Data)
+[3 days]
+
+* Pyhton Strings and Inbuilt Functions
+* Python List and Boolean Variables Inbuild functions. 
+* Python Sets-Inbuilt functions
+* Python Dictionaries-inbuilt Functions
+* Function In Python(User Define Functions)
+* Lambda Functions
+* Interators And generrators
+* Execption Handling & Imports libraries 
+-----------------------------------
+
+Part-3 OOPS is all need
+[4 days]
+
+* Classes
+* Object
+* Method
+* Inheritance
+* Polymorphism
+* Data Abstraction
+* Encapsulation
+------------------------------------
+
+Part-4 Libraries with Python 
+[2 days]
+
+* Numpy- play with arrays
+* Pandas
+* Matplotlib
+* Seadorn
+* Scipy

@@ -1,0 +1,22 @@
+Sets:-
+A set is an unordered collecton of data type that id iterable,mutable and no duplicate elements. Pyhton sets represents the mathemathical notation of a set. This is based on a data structure known as a hash table.
+
+* set()
+* set_var.add("Hulk") // set does not support indexing
+* set_var.differnece(set_var2) // diff element show
+* set_var.difference_update(set_var2) // diff element show then updated
+* set_var.intersection(set_var2) //common elements
+* set_var.intersection_update(set_var2)
+
+
+Dictionaries:-
+A dictionary is a collection which is unordered, changeable and indexed. IN Python dictionaries are written with curly brackets and they have keys and values.
+
+* dic={}
+* 
+*
+
+Toples:-
+Tuples is not mutable. Can not change the elements of tuples. Tuples are written in 90 first brackets.
+
+* my_tuples = tuple() 
